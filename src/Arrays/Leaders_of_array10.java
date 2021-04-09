@@ -1,8 +1,6 @@
 /*Leaders in an array*/
 package Arrays;
 
-import java.util.Arrays;
-
 public class Leaders_of_array10 {
     public static void main(String[] args) {
         int[] ar = {16, 17, 4, 3, 5, 2};

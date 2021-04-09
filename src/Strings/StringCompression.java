@@ -2,21 +2,21 @@ package Strings;
 
 public class StringCompression {
     public static void main(String[] args) {
-        String s = "geeksforgeeks";
-        duplicate(s,"",0);
+        String s = "DebayanDebnath";
+//        duplicate(s,"",0);
         //compression(s);
         //maxFrequency(s);
         //difference(s);
         //System.out.println(isPallindrome(s));
         //isPallindrome(s);
-        //camelCase(s);
+        camelCase(s);
     }
     public static void compression(String s){
         int count = 1;
         StringBuilder b = new StringBuilder();
         char ch = s.charAt(0);
         b.append(ch);
-        for (int i = 0; i <s.length() ; i++) {
+        for (int i = 1; i <s.length() ; i++) {
             if(ch == s.charAt(i)){
                 count++;
             }

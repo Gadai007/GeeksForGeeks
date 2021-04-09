@@ -17,13 +17,12 @@ public class Kthelement6 {
             if(first[i] < second[j]){
                 ar[k] = first[i];
                 i++;
-                k++;
             }
             else {
                 ar[k] = second[j];
                 j++;
-                k++;
             }
+            k++;
         }
         while(i < first.length ){
             ar[k] = first[i];

@@ -5,12 +5,15 @@ import java.util.Scanner;
 
 public class DistinctCharacter {
     public static void main(String[] args) {
-       Scanner s = new Scanner(System.in);
-       int t = s.nextInt();
-        for (int i = 0; i <t ; i++) {
-            String str = s.next();
-            distinctCharacter(str);
-        }
+//       Scanner s = new Scanner(System.in);
+//       int t = s.nextInt();
+//        for (int i = 0; i <t ; i++) {
+//            String str = s.next();
+//            distinctCharacter(str);
+//        }
+//        distinctCharacter("geeksforgeeks");
+        distinct("geeksforgeeks");
+//        System.out.println(Integer.parseInt("1234"));
     }
     public static void distinctCharacter(String s){
         if(s == null || s.length() == 0){
@@ -37,5 +40,25 @@ public class DistinctCharacter {
             }
         }
         System.out.println(result);
+    }
+
+                                //    It is the easy one
+
+    public static void distinct(String s){
+        int i = 0;
+        int j = 0;
+        int max = 0;
+        HashSet<Character> set = new HashSet<>();
+        while( j < s.length()){
+            if(!set.contains(s.charAt(j))){
+                set.add(s.charAt(j));
+                max = Math.max(set.size(), max);
+                j++;
+            }else {
+                set.remove(s.charAt(i));
+                i++;
+            }
+        }
+        System.out.println(max);
     }
 }

@@ -12,47 +12,22 @@ public class LongestCommonPrefix6 {
           Scanner s = new Scanner(System.in);
           int t = s.nextInt();
           for (int i = 0; i < t ; i++) {
-            int n = s.nextInt();
-            String[] ar = new String[n];
-            for (int j = 0; j <n ; j++) {
-                ar[j] = s.next();
-            }
-            String ans = commonPrefix(ar, 0, ar.length-1);
-            if(ans.length() != 0){
-                System.out.println(ans);
-            }
-            else{
-                System.out.println(-1);
-            }
-        }
-    }
-    public static String commonPrefixUtil(String s1, String s2){
-        String result ="";
-        int i =0;
-        int j =0;
-        while (i < s1.length() && j < s2.length()){
-            if(s1.charAt(i) != s2.charAt(j)){
-                break;
-            }
-            result += s1.charAt(i);
-            i++;
-            j++;
-        }
-        return result;
+              int n = s.nextInt();
+              String[] ar = new String[n];
+              for (int j = 0; j < n; j++) {
+                  ar[j] = s.next();
+              }
+              prefix(ar);
+          }
     }
 
-    public static String commonPrefix(String[] ar, int start, int end){
-        if( start == end){
-            return ar[start];
+    public static void prefix(String[] strs){
+        String prefix = strs[0];
+        for (int i = 1; i < strs.length; i++) {
+            while(strs[i].indexOf(prefix) != 0){
+                prefix = prefix.substring(0, prefix.length() -1);
+            }
         }
-
-        if(start < end){
-            int mid = start + (end - start)/2;
-            String s1 = commonPrefix(ar,start,mid);
-            String s2 = commonPrefix(ar,mid+1,end);
-
-            return commonPrefixUtil(s1, s2);
-        }
-        return null;
+        System.out.println(prefix);
     }
 }

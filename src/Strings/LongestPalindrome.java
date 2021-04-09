@@ -2,7 +2,7 @@ package Strings;
 
 public class LongestPalindrome {
     public static void main(String[] args) {
-        String s = "abaeeccddccff";
+        String s = "racecar";
         longestPalindrom(s);
     }
     public static void longestPalindrom(String s){
@@ -22,6 +22,7 @@ public class LongestPalindrome {
             }
         }
         System.out.println(s.substring(start, end+ 1));
+        System.out.println(s.substring(start, end+ 1).length());
     }
 
     public static  int expandFromMiddle(String s, int left, int right){

@@ -2,134 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="842347ed-e2e3-44a4-8642-4030efee4dcd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeeksForGeeks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Contigious_sum_subarray2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Count_triplets4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Equilibrium_point9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/IntersectionOfArrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Inversion_array7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Kthsmallest_element12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Leaders_of_array10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Missing_element5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Pythagorus_Triplet13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Rearrange_array6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Reverse_groups11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/SlidingWindow1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Sortarray0_1_28.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/SortedArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/SubArray_of_sum3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Backtracking/Nqueens1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/BitMasking/FlipNumbers5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/BitMasking/LongestOnes7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/BitMasking/MaximumXOR9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/BitMasking/PowerOfTwo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/BitMasking/PowerOfTwo4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/BitMasking/SetBitRight1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/BitMasking/Setkthbit3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/BitMasking/SparseNumber8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/BitMasking/ToogleLandR2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/BitMasking/TotalSetBits6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/DivideAndConquer/BinarySearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/DivideAndConquer/Kthelement6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/DivideAndConquer/MergeSort5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/DivideAndConquer/MissingElement1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/DivideAndConquer/Quicksort4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/DivideAndConquer/RotatedArray2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Heap/MedianinStream1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Heap/MedianinStream1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/LinkedList/LinkedList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/LinkedList/LinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/LinkedList/LinkedListClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/META-INF/GeeksForGeeks.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/StackAndQueue/MaximumElement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/StackAndQueue/MinimumElement3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/StackAndQueue/NextGreaterElement2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/StackAndQueue/ParenthesisStack1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/StackAndQueue/QueueUsingTwoStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/StackAndQueue/ReverseStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/StackAndQueue/SortStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/StackAndQueue/StockSpan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Strings/Anagram4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Strings/DistinctCharacter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Strings/Duplicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Strings/LongestCommonPrefix6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Strings/LongestPalindrome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Strings/ReverseString1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Strings/RomanToInteger3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Strings/StrStr5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Strings/StringCompression.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Strings/StringRotate2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Trees/BST$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Trees/BST$Obj.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Trees/BST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Trees/BT$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Trees/BT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Trees/HackerBlocksBT$BinaryTree$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Trees/HackerBlocksBT$BinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Trees/HackerBlocksBT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Contigious_sum_subarray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Count_triplets4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Equilibrium_point9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/IntersectionOfArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Inversion_array7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Kthsmallest_element12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Leaders_of_array10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Missing_element5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Pythagorus_Triplet13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Rearrange_array6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Reverse_groups11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SlidingWindow1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Sortarray0_1_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SubArray_of_sum3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Backtracking/Nqueens1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitMasking/FlipNumbers5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitMasking/LongestOnes7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitMasking/MaximumXOR9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitMasking/PowerOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitMasking/PowerOfTwo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitMasking/SetBitRight1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitMasking/Setkthbit3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitMasking/SparseNumber8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitMasking/ToogleLandR2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitMasking/TotalSetBits6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivideAndConquer/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivideAndConquer/Kthelement6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivideAndConquer/MergeSort5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivideAndConquer/MissingElement1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivideAndConquer/Quicksort4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivideAndConquer/RotatedArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heap/MedianinStream1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/MaximumElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/MinimumElement3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/NextGreaterElement2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/ParenthesisStack1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/QueueUsingTwoStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/ReverseStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/SortStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueue/StockSpan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Anagram4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/DistinctCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/LongestCommonPrefix6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/LongestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/ReverseString1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/RomanToInteger3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/StrStr5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/StringCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/StringRotate2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/BT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees/HackerBlocksBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/ZeroOneKnapSack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Leaders_of_array10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Leaders_of_array10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Missing_element5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Missing_element5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Rearrange_array6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Rearrange_array6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Reverse_groups11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Arrays/Reverse_groups11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeeksForGeeks/DivideAndConquer/RotatedArray2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/DivideAndConquer/RotatedArray2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeeksForGeeks/META-INF/GeeksForGeeks.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeeksForGeeks/Strings/DistinctCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Strings/DistinctCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeeksForGeeks/Strings/LongestCommonPrefix6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Strings/LongestCommonPrefix6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeeksForGeeks/Strings/LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Strings/LongestPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeeksForGeeks/Strings/StringCompression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GeeksForGeeks/Strings/StringCompression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Leaders_of_array10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Leaders_of_array10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Missing_element5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Missing_element5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Rearrange_array6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Rearrange_array6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Reverse_groups11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Reverse_groups11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DivideAndConquer/Kthelement6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DivideAndConquer/Kthelement6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DivideAndConquer/RotatedArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DivideAndConquer/RotatedArray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings/DistinctCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/DistinctCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings/LongestCommonPrefix6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/LongestCommonPrefix6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/LongestPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings/StringCompression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/StringCompression.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,22 +50,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.LongestPalindrome">
-    <configuration name="BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trees.BST" />
-      <module name="GeeksForGeeks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.LongestPalindrome" />
+  <component name="RunManager" selected="Application.StringCompression">
+    <configuration name="DistinctCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.DistinctCharacter" />
       <module name="GeeksForGeeks" />
       <extension name="coverage">
         <pattern>
@@ -183,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackAndQueue.ReverseStack" />
+    <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.Duplicate" />
       <module name="GeeksForGeeks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StackAndQueue.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackAndQueue.SortStack" />
+    <configuration name="Missing_element5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Missing_element5" />
       <module name="GeeksForGeeks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StackAndQueue.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,12 +90,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StockSpan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackAndQueue.StockSpan" />
+    <configuration name="Reverse_groups11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Reverse_groups11" />
       <module name="GeeksForGeeks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StackAndQueue.*" />
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.StringCompression" />
+      <module name="GeeksForGeeks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,19 +117,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BST" />
-      <item itemvalue="Application.LongestPalindrome" />
-      <item itemvalue="Application.ReverseStack" />
-      <item itemvalue="Application.SortStack" />
-      <item itemvalue="Application.StockSpan" />
+      <item itemvalue="Application.Reverse_groups11" />
+      <item itemvalue="Application.Missing_element5" />
+      <item itemvalue="Application.DistinctCharacter" />
+      <item itemvalue="Application.Duplicate" />
+      <item itemvalue="Application.StringCompression" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongestPalindrome" />
-        <item itemvalue="Application.BST" />
-        <item itemvalue="Application.StockSpan" />
-        <item itemvalue="Application.SortStack" />
-        <item itemvalue="Application.ReverseStack" />
+        <item itemvalue="Application.StringCompression" />
+        <item itemvalue="Application.Duplicate" />
+        <item itemvalue="Application.DistinctCharacter" />
+        <item itemvalue="Application.Missing_element5" />
+        <item itemvalue="Application.Reverse_groups11" />
       </list>
     </recent_temporary>
   </component>
@@ -253,54 +147,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="436" y="106" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1596099657378">
+    <state x="557" y="291" width="422" height="251" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1617945245343">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="436" y="106" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1596099657378" />
-    <state width="1483" height="134" key="GridCell.Tab.0.bottom" timestamp="1599996163719">
+    <state x="557" y="291" width="422" height="251" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1617945245343" />
+    <state width="1483" height="134" key="GridCell.Tab.0.bottom" timestamp="1617970004104">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="134" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599996163719" />
-    <state width="1483" height="134" key="GridCell.Tab.0.center" timestamp="1599996163719">
+    <state width="1483" height="134" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617970004104" />
+    <state width="1483" height="134" key="GridCell.Tab.0.center" timestamp="1617970004103">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="134" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599996163719" />
-    <state width="1483" height="134" key="GridCell.Tab.0.left" timestamp="1599996163719">
+    <state width="1483" height="134" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617970004103" />
+    <state width="1483" height="134" key="GridCell.Tab.0.left" timestamp="1617970004103">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="134" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599996163719" />
-    <state width="1483" height="134" key="GridCell.Tab.0.right" timestamp="1599996163719">
+    <state width="1483" height="134" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617970004103" />
+    <state width="1483" height="134" key="GridCell.Tab.0.right" timestamp="1617970004103">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1483" height="134" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599996163719" />
-    <state width="1483" height="222" key="GridCell.Tab.1.bottom" timestamp="1598352116966">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1483" height="222" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598352116966" />
-    <state width="1483" height="222" key="GridCell.Tab.1.center" timestamp="1598352116966">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1483" height="222" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1598352116966" />
-    <state width="1483" height="222" key="GridCell.Tab.1.left" timestamp="1598352116966">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1483" height="222" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1598352116966" />
-    <state width="1483" height="222" key="GridCell.Tab.1.right" timestamp="1598352116966">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1483" height="222" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1598352116966" />
-    <state x="104" y="0" key="new project wizard" timestamp="1593946717908">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="104" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1593946717908" />
-    <state x="341" y="183" key="run.anything.popup" timestamp="1597392351705">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1597392351705" />
-    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1594204759516">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594204759516" />
+    <state width="1483" height="134" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617970004103" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -331,11 +197,6 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Arrays/Inversion_array7.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BitMasking/Setkthbit3.java</url>
           <line>6</line>
           <option name="timeStamp" value="13" />
@@ -344,6 +205,11 @@
           <url>file://$PROJECT_DIR$/src/StackAndQueue/QueueUsingTwoStack.java</url>
           <line>33</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/StrStr5.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -16,48 +16,10 @@ public class RotatedArray2 {
 //            System.out.println(rotatedarray(ar,target));
 //        }
         int[] ar = {4,5,6,7,0,1,2};
-        System.out.println(rotatedarray(ar, 7));
         //rotatedarray(ar,0);
         rotated(ar,7);
     }
-    public static int rotatedarray(int[] ar, int target){
-        int left= 0;
-        int right = ar.length-1;
-        while(left < right){
-            int mid = left + (right-left)/2;
-            if(ar[mid] > ar[right]){
-                left = mid + 1;
-            }
-            else {
-                right = mid;
-            }
-        }
 
-        int start = left;
-        left =0;
-        right = ar.length-1;
-
-        if(target >= ar[start] && target <= ar[right]){
-            left = start;
-        }
-        else {
-            right = start;
-        }
-
-        while (left <= right){
-            int mid = left + (right-left)/2;
-            if(ar[mid] == target){
-                return mid;
-            }
-            else if(ar[mid] < target){
-                left = mid + 1;
-            }
-            else {
-                right = mid -1;
-            }
-        }
-        return -1;
-    }
 
     public static void rotated(int[] ar, int target){
         if(ar.length == 0){

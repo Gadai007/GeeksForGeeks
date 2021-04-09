@@ -14,13 +14,17 @@ public class Reverse_groups11 {
 
             int start = i;
             int end = Math.min(i+k-1, ar.length-1);
-            while (start < end){
-                int temp = ar[start];
-                ar[start] = ar[end];
-                ar[end] = temp;
-                start++;
-                end--;
-            }
+            reverseArray(ar, start, end);
+        }
+    }
+
+    private static void reverseArray(int[] ar, int start, int end) {
+        while (start < end){
+            int temp = ar[start];
+            ar[start] = ar[end];
+            ar[end] = temp;
+            start++;
+            end--;
         }
     }
 }
